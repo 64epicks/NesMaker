@@ -1,0 +1,4 @@
+[submodule "emulator"]
+	path = emulator
+	url = https://github.com/64epicks/NESsxt.git
+	branch = master
